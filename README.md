@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amirtha2503
+- 👋 Hi, I’m Amirthavarshini V
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on coding contests, projects
