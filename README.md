@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amirthavarshini V
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Python and java
-- 💞️ I’m looking to collaborate on coding contests, projects
+- 👀 I’m interested in Deep learning, natural language processing, data analytics and web development
+- 💞️ I’m looking to collaborate on hackathons and projects
 - 📫 Reach me at amirtha.venkadesh@gmail.com
 
 <!---
